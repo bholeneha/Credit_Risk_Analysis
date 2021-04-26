@@ -10,7 +10,7 @@ The purpose of this analysis is to run the credit card credit dataset (obtained 
 ## Analysis
 
 Data Source: 
-- [Credit Card Credit Dataset from LendingClub](Resources/LoanStats_2019Q1.csv)  
+- Credit Card Credit Dataset from LendingClub
 
 Software used: 
 - Python Libraries (imbalanced-learn, scikit-learn)
@@ -78,9 +78,6 @@ The following are the results for the algorithms that were used to resample data
 * Recall Score - The recall or sensitivity score for this model is 0.94 or 94% for low risk and 0.91 or 91% for high risk loans.
 
 ## Summary
-[//]: # (Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. If you do not recommend any of the models, justify your reasoning.
-There is a summary of the results.
-There is a recommendation on which model to use, or there is no recommendation with a justification)
 
 Before determining which model best works for this dataset, its important to think about the question at hand and what is the goal of the company. The management at Fast Lending wants to use machine learning to provide accurate identification of good candidates and wants to lower the default rates.
  
