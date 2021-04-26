@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+#files/folders to ignore
+Resources/
+.ipynb_checkpoints/
+
+
 # Distribution / packaging
 .Python
 build/
